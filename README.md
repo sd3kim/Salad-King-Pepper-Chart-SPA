@@ -1,4 +1,4 @@
 ### **Screenshots**
 
-![No Spice](./img/1.png)
-![Some Spice](./img/2.png)
+![No Spice](./public/img/1.png)
+![Some Spice](./public/img/2.png)
